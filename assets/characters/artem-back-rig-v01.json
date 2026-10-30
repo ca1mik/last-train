@@ -1,0 +1,25 @@
+{
+  "status": "rear idle/walk reviewed in runtime eight-phase contact sheet; gestures and side views pending",
+  "view": "back",
+  "regions": {
+    "body": [0, 0, 505, 790],
+    "arm_l": [510, 160, 245, 620],
+    "arm_r": [775, 160, 249, 620],
+    "leg_l": [70, 790, 340, 730],
+    "leg_r": [430, 790, 350, 730],
+    "scarf": [790, 850, 234, 650]
+  },
+  "anchors": {
+    "arm_l": [[0.5, 0.06], [0.5, 0.95]],
+    "arm_r": [[0.5, 0.06], [0.5, 0.95]],
+    "leg_l": [[0.5, 0.03], [0.5, 0.97]],
+    "leg_r": [[0.5, 0.03], [0.5, 0.97]]
+  },
+  "shoulders": [[-16, -75], [16, -75]],
+  "extremities": {
+    "arm_l": {"start": 0.78, "joint": [0.5, 0.8], "height": 9},
+    "arm_r": {"start": 0.78, "joint": [0.5, 0.8], "height": 9},
+    "leg_l": {"start": 0.76, "joint": [0.5, 0.8], "height": 13},
+    "leg_r": {"start": 0.76, "joint": [0.5, 0.8], "height": 13}
+  }
+}

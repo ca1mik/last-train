@@ -1,0 +1,32 @@
+Последний рейс · 2.5D prototype 0.39
+
+CHARACTERS AND BASE ANIMATIONS
+Man, by Quaternius. CC0.
+Author's distribution page: https://poly.pizza/m/HMnuH5geEG
+Downloaded original: https://static.poly.pizza/3746be88-6799-4817-929b-6bc067c47caa.glb
+Adaptations: railway coat, scarf, satchel, railway key, hood, materials,
+phase-aligned locomotion and animation blending authored in this project.
+CC0 information: https://creativecommons.org/publicdomain/zero/1.0/
+
+RETARGETED CHARACTER ANIMATIONS (0.38)
+Universal Animation Library Standard, by Quaternius. CC0.
+Official page: https://quaternius.com/packs/universalanimationlibrary.html
+Distribution: https://quaternius.itch.io/universal-animation-library
+Original license: assets/characters/motion-v38/UAL-CC0.txt and licenses/UAL-CC0.txt.
+Retargeted onto the preserved Man rig by tools/retarget_man_v038.py.
+No new base-character pack is used. Original model and animation files retained.
+
+SOUND EFFECTS
+Impact Sounds 1.0 by Kenney (www.kenney.nl), CC0.
+Original license included in assets/audio/Kenney-CC0.txt and distribution licenses.
+No continuous generated rain/noise recording is used in this project.
+
+ENGINE
+Godot Engine 4.7.2, MIT license.
+Full Godot LICENSE.txt and third-party COPYRIGHT.txt are included in the
+distribution's licenses directory. See https://godotengine.org/license/
+
+ENVIRONMENT
+Native meshes, layouts, materials, shaders and code authored in this project.
+Death's Door and Hades screenshots used for private visual comparison are not
+included in the game and confer no rights to their characters or artwork.

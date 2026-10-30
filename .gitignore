@@ -1,0 +1,22 @@
+﻿__pycache__/
+*.pyc
+build/
+dist/
+*.log
+node_modules/
+output/playwright/
+
+# Local credentials and generated files
+.env
+.env.*
+!.env.example
+!.env.*.example
+!.env.sample
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite*
+*.log

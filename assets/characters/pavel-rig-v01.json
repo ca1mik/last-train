@@ -1,0 +1,25 @@
+{
+  "parts": ["body", "arm_l", "arm_r", "leg_l", "leg_r"],
+  "status": "front idle/walk candidate; additional views and gestures pending",
+  "body_height": 60, "body_top": 96, "hip_height": 50,
+  "regions": {
+    "body": [0, 0, 505, 805],
+    "arm_l": [510, 190, 245, 625],
+    "arm_r": [775, 190, 249, 625],
+    "leg_l": [110, 810, 300, 720],
+    "leg_r": [455, 810, 355, 720]
+  },
+  "anchors": {
+    "arm_l": [[0.4, 0.06], [0.45, 0.96]],
+    "arm_r": [[0.4, 0.06], [0.4, 0.96]],
+    "leg_l": [[0.4, 0.03], [0.6, 0.97]],
+    "leg_r": [[0.3, 0.03], [0.65, 0.97]]
+  },
+  "shoulders": [[-14, -74], [14, -74]],
+  "extremities": {
+    "arm_l": {"start": 0.75, "joint": [0.5, 0.77], "height": 9},
+    "arm_r": {"start": 0.75, "joint": [0.45, 0.77], "height": 9},
+    "leg_l": {"start": 0.74, "joint": [0.4, 0.78], "height": 13},
+    "leg_r": {"start": 0.74, "joint": [0.4, 0.78], "height": 13}
+  }
+}

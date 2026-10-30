@@ -1,0 +1,28 @@
+{
+  "parts": ["body", "arm_l", "arm_r", "leg_l", "leg_r"],
+  "status": "front idle/walk reviewed in eight-phase runtime contact sheet; rear/side views and gestures pending",
+  "body_height": 54,
+  "body_top": 96,
+  "hip_height": 50,
+  "regions": {
+    "body": [0, 0, 475, 675],
+    "arm_l": [475, 160, 245, 575],
+    "arm_r": [770, 160, 254, 590],
+    "leg_l": [70, 675, 285, 845],
+    "leg_r": [360, 680, 360, 840]
+  },
+  "isolate_parts": ["arm_l"],
+  "anchors": {
+    "arm_l": [[0.65, 0.05], [0.5, 0.96]],
+    "arm_r": [[0.35, 0.05], [0.4, 0.96]],
+    "leg_l": [[0.4, 0.03], [0.53, 0.97]],
+    "leg_r": [[0.3, 0.03], [0.6, 0.97]]
+  },
+  "shoulders": [[-12, -73], [12, -73]],
+  "extremities": {
+    "arm_l": {"start": 0.78, "joint": [0.5, 0.8], "height": 9},
+    "arm_r": {"start": 0.78, "joint": [0.4, 0.8], "height": 9},
+    "leg_l": {"start": 0.74, "joint": [0.4, 0.78], "height": 13},
+    "leg_r": {"start": 0.74, "joint": [0.4, 0.78], "height": 13}
+  }
+}

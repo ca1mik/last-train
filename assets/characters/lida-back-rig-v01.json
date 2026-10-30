@@ -1,0 +1,132 @@
+{
+  "parts": [
+    "body",
+    "arm_l",
+    "arm_r",
+    "leg_l",
+    "leg_r"
+  ],
+  "view": "back",
+  "status": "Rear idle/walk and carrier candidate; side views, closed grips and gestures pending",
+  "body_height": 64,
+  "body_top": 96,
+  "hip_height": 50,
+  "regions": {
+    "body": [
+      70,
+      25,
+      396,
+      726
+    ],
+    "arm_l": [
+      526,
+      224,
+      139,
+      571
+    ],
+    "arm_r": [
+      784,
+      223,
+      189,
+      571
+    ],
+    "leg_l": [
+      138,
+      805,
+      180,
+      681
+    ],
+    "leg_r": [
+      452,
+      808,
+      196,
+      678
+    ]
+  },
+  "anchors": {
+    "arm_l": [
+      [
+        0.5,
+        0.04
+      ],
+      [
+        0.5,
+        0.97
+      ]
+    ],
+    "arm_r": [
+      [
+        0.5,
+        0.04
+      ],
+      [
+        0.5,
+        0.97
+      ]
+    ],
+    "leg_l": [
+      [
+        0.5,
+        0.04
+      ],
+      [
+        0.5,
+        0.97
+      ]
+    ],
+    "leg_r": [
+      [
+        0.5,
+        0.04
+      ],
+      [
+        0.5,
+        0.97
+      ]
+    ]
+  },
+  "shoulders": [
+    [
+      -14,
+      -74
+    ],
+    [
+      14,
+      -74
+    ]
+  ],
+  "extremities": {
+    "arm_l": {
+      "start": 0.78,
+      "joint": [
+        0.5,
+        0.8
+      ],
+      "height": 9
+    },
+    "arm_r": {
+      "start": 0.78,
+      "joint": [
+        0.5,
+        0.8
+      ],
+      "height": 9
+    },
+    "leg_l": {
+      "start": 0.74,
+      "joint": [
+        0.5,
+        0.77
+      ],
+      "height": 13
+    },
+    "leg_r": {
+      "start": 0.74,
+      "joint": [
+        0.5,
+        0.77
+      ],
+      "height": 13
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "browser": {
+    "browserName": "chromium",
+    "isolated": true,
+    "launchOptions": {
+      "headless": true,
+      "executablePath": "C:\\Users\\koall\\AppData\\Local\\ms-playwright\\chromium-1248\\chrome-win64\\chrome.exe"
+    },
+    "contextOptions": {
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      }
+    }
+  }
+}

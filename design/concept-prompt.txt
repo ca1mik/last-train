@@ -1,0 +1,8 @@
+﻿Use case: stylized-concept.
+Art direction board for original narrative 2D PC game Last Train; no text or logos.
+Upper two thirds: oblique overhead view of abandoned industrial railway station at night, 1998, wet platform, old diesel locomotive and one passenger car with amber cabin light, pharmacy, relay cabinet, fog.
+Characters: tired 49-year-old train driver, dark heavy coat, burgundy scarf and work bag; woman engineer aged 27 in ochre jacket with folder; older female medic in green coat with medical bag and grey braid. Thin raincoat creature with reflective stripe behind frosted waiting-room glass.
+Lower third: four full-body three-quarter character studies of these same designs on charcoal background.
+Hand-painted textured gouache, angular shapes, strong silhouettes, restrained detail. Palette charcoal blue #17262D, wet green #344B49, concrete #7C8980, amber #E9BA75, signal red #B44D48. Human intimacy and quiet unease.
+Avoid photorealism, 3D render, fantasy armor, HUD, typography, gore. Concept board, not sprite sheet.
+Generation: built-in image_gen tool. This file records the production specification; the full submitted prompt is in the tool call in this conversation.
